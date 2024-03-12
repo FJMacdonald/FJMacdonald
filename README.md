@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Francesca.  
-I can't think of a **single** thiing to write here.
+I can't think of a **single** thing to write here.
 
 <!--
 **FJMacdonald/FJMacdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
